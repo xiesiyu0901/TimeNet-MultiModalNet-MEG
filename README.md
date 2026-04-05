@@ -1,6 +1,3 @@
-# TimeNet-MultiModalNet-MEG
-Deep learning for ASD classification using resting-state MEG
-
 # TimeNet & MultiModalNet for ASD Classification using MEG
 
 This repository provides the implementation of deep learning models for classifying Autism Spectrum Disorder (ASD) using resting-state magnetoencephalography (MEG) data.
