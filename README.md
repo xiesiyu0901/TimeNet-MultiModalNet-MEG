@@ -28,7 +28,8 @@ Two models are implemented:
 ```bash
 pip install -r requirements.txt
 
-
+```
+---
 ## Data Format
 
 The input data should be preprocessed into image format:
@@ -44,12 +45,14 @@ Labels:
 CL = ASD
 TD = Typically Developing
 
+---
 ## Usage
 Run TimeNet
 python TimeNet_upload.py
 Run MultiModalNet
 python Multimodalnet_upload.py
 
+---
 ## Notes
 Please modify the data paths in the script before running.
 Data and trained models are not included in this repository.
